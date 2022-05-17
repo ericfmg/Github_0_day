@@ -1,0 +1,32 @@
+body{
+    min-height: 100vh;
+
+}
+.pslc{
+    background-color: #01504A;
+}
+
+.pslct{
+    color:#01504A  ;
+}
+.total{
+    height: 85vh;
+}
+.im{
+    max-width: 40vw;
+}
+.btn-pslc{
+    background-color: #01504A ;
+    border-style: solid;
+    border-width: 0.2rem;
+    border-color: white !important;
+    color: white !important;
+}
+.btn-pslc:hover{
+    background-color: white;
+    color: black !important;
+}
+.btn-lo{
+    width: 50%;
+    margin-left: 12vw;
+}
